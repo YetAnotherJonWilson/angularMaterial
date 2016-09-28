@@ -1,4 +1,4 @@
-angular.module('materialApp', [])
+angular.module('materialApp', ['ngMaterial'])
         .controller('MainController', [MainController]);
 
     function MainController() {
