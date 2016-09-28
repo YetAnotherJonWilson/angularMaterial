@@ -1,0 +1,24 @@
+{
+  "name": "angular_material",
+  "version": "1.0.0",
+  "description": "learning angular material using book \"unraveling angular material\"",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonwilsoncomedy/angularMaterial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonwilsoncomedy/angularMaterial/issues"
+  },
+  "homepage": "https://github.com/jonwilsoncomedy/angularMaterial#readme",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "express": "^4.14.0"
+  }
+}
